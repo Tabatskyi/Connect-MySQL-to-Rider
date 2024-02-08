@@ -17,6 +17,7 @@
 ### Second Step
 - Authentication: select ‘User & Password’
 - User: put user name, selected when you created server (by default ‘root’)
+- Password: put here your very secret password
 - Save: responsible for what time Rider will remember your authentication credentials
 - Database: if you already have one, you can choose it here (if you don't, you will create one soon)
 - Press the ‘Connect to Database’ button
